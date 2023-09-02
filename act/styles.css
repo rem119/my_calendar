@@ -1,0 +1,43 @@
+th, td{
+    text-align: center;
+}
+
+table {
+    table-layout: fixed;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+.bred{
+    background-color: red;
+    color: white;
+}
+
+.bgreen{
+    background-color: green;
+    color: white;   
+}
+
+.fgrey{
+    color: grey;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mwa{
+    height: 150px;
+}
+
+.prog {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: white;
+}
